@@ -1,4 +1,4 @@
-# 👁️ Lumera - Hospital Management System (Ophthalmology Specialization)
+# Lumera - Hospital Management System (Ophthalmology Specialization)
 
 ## 🏥 Project Overview
 
